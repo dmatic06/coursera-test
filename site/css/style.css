@@ -1,6 +1,10 @@
 p{
-    background: radial-gradient(ellipse,red,blue);
- }
+    background: radial-gradient(ellipse, red, yellow)
+}
+
+/* p{
+    background: radial-gradient(circle, blue, white);
+}*/
 
 h1{
     text-align: left;
@@ -8,7 +12,11 @@ h1{
 }
 
 h3{
-    color: rgb(30, 255, 0);
+    color: rgb(174, 0, 255);
     background-color: blue;
     padding: 15px;
+}
+
+body{
+    background: grey;
 }
